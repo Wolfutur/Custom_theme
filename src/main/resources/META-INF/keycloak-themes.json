@@ -1,0 +1,11 @@
+{
+  "themes": [{
+    "name": "theme1",
+    "types": ["admin","account","login"]
+  },
+    {
+      "name": "theme2",
+      "types": ["login"]
+    }
+  ]
+}
